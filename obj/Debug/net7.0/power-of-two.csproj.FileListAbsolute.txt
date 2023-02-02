@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\power-of-two\bin\Debug\net7.0\power-of-two.exe
+C:\Users\trigo\Programação\C#\power-of-two\bin\Debug\net7.0\power-of-two.deps.json
+C:\Users\trigo\Programação\C#\power-of-two\bin\Debug\net7.0\power-of-two.runtimeconfig.json
+C:\Users\trigo\Programação\C#\power-of-two\bin\Debug\net7.0\power-of-two.dll
+C:\Users\trigo\Programação\C#\power-of-two\bin\Debug\net7.0\power-of-two.pdb
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.dll
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\refint\power-of-two.dll
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.pdb
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\power-of-two.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\power-of-two\obj\Debug\net7.0\ref\power-of-two.dll
